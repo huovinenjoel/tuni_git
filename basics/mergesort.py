@@ -50,3 +50,4 @@ if __name__ == "__main__":
 
     sorted_list = mergesort(value_list)
     print(sorted_list)
+    debug_print(value_list=value_list)
